@@ -1,0 +1,12 @@
+{
+  "name": "converting-to-ts-basic-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jherr/converting-to-ts-basic-types.git",
+  "author": "dthai2 <you@example.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.5"
+  }
+}
