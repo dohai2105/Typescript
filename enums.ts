@@ -31,4 +31,5 @@ function sendEvent(name: string, data: unknown): void {
 }
 
 
+
 sendEvent("addToCart", { productId: 123433243 });
